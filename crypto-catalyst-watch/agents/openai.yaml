@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crypto Catalyst Watch"
+  short_description: "BTC–ETH–SOL katalizátor és Deep Scan"
+  default_prompt: "Use $crypto-catalyst-watch to run a current BTC, ETH, and SOL catalyst card with a Deep Scan."
